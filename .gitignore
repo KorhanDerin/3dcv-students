@@ -1,6 +1,7 @@
 # Datasets
 ./data/
 !./data/.gitkeep
+/data/
 
 # Output
 out*
